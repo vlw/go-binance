@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/adshao/go-binance/v2/common"
 	"github.com/stretchr/testify/suite"
+	"github.com/vlw/go-binance/v2/common"
 )
 
 type baseOrderTestSuite struct {
